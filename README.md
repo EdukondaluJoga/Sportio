@@ -6,11 +6,11 @@
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This is a flutter project using dart as the coding langauge along with GetX Provider,
+here i have provided sign up, login, dashboard, search, profile pages
+and the dashboard page extends to create new sports court or create a booking request and we can scroll through bookings
+IT is divided into 2 roles user and admin here the admin can have crud operation to delete or create new sports complexs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For further checkings you can run my code or go through image folders how the app is designed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Due to time constraints i cant able to hook the frontend to backend even though i have worked on backend and gone through ends to finish it but due to time constraints its unfortunate that i havent able to hook my frontend to backend
